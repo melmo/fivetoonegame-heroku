@@ -6,6 +6,9 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
+    "axios": "^0.20.0",
+    "dotenv": "^5.0.1",
+    "twilio": "^3.13.1",
     "connect-history-api-fallback": "^1.6.0",
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
